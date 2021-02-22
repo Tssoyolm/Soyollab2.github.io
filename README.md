@@ -19,7 +19,7 @@
 <h1>Hello everyone</h1>
 <p><strong>It is a pleasure to introduce myself<strong/></p>
  <ul>
-      <li><a href="#About"><button type="button"click=>About</a><a href="#Lifestyle"><button type="button"click=>Life style</a><a href="#Favorites"><button type="button"click=>Favorites</a></li>
+      <li><a href="#About"><button type="button" click=>About</a><a href="#Lifestyle"><button type="button" click=>Life style</a><a href="#Favorites"><button type="button" click=>Favorites</a></li>
  </ul>  
 <p><img src="https://image.freepik.com/free-photo/student-reading-library-school_28586-1486.jpg" width="750" height="750">
 </p>
