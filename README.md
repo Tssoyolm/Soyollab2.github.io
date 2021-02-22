@@ -42,7 +42,6 @@
 <div class="divider"></div>
 <p class="text"><font size="5" face="Tahoma" color="black">
 Миний хобби гэвэл сагс тоглох,шатар тоглох дуртай.Мөн бүтээлч зүйлс хийх их дуртай.
-</p>
 
 <p><img src="https://content.thriveglobal.com/wp-content/uploads/2019/04/what-is-life.jpg?w=1550" width="750" height="750">
 </p>
