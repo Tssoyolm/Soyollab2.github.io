@@ -16,12 +16,11 @@
 
 
 <h1>Hello everyone</h1>
-<p><strong>It is a pleasure to introduce myself<strong/>
+<p><strong>It is a pleasure to introduce myself<strong/></p>
  <ul>
       <li><a href="#About"><button type="button"click=>About</a><a href="#lifestyle"><button type="button"click=>Life style</a><a href="#Favorites"><button type="button"click=>Favorites</a></li>
  </ul>  
-<p><img src="https://image.freepik.com/free-photo/student-reading-library-school_28586-1486.jpg" width="750" height="750">
-</p>
+<p><img src="https://image.freepik.com/free-photo/student-reading-library-school_28586-1486.jpg" width="750" height="750"></p>
           <div class="About" id="About"></div>
           <div class="About-section"> </div>
           <div class="inner-container"> </div>
@@ -50,9 +49,8 @@
 <div class="inner-container"></div>
 <h1>Lifestyle</h1>
 <div class="divider"></div>
-<p class="text"><font size="5" face="Tahoma" color="black">
+<p class="text"><font size="5" face="Tahoma" color="black"></p>
 Бүх зүйлийг хослуулж явахыг хичээдэг.Өдөрт зайлшгүй хийдэг зүйлс гэвэл гэрийн ажил дасгал хөдөлгөөн хийх мөн хичээлээ хийх үүний хажуугаар С хэл дээр код бичих,хүүхдүүдэд математикийн давтлага зарим үед өгдөг.Эрүүл амьдралын хэв маягийг эрхэмлэдэг ч гэсэн дуртай зүйлээ хүссэн үедээ иддэг.Өөртөө үнэнч байхыг маш их эрмэлздэг.
-</p>
 
 
 
