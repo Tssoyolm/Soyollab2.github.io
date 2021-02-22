@@ -29,7 +29,7 @@
              <div class="divider"></div>
              <p class="text"><font size="5" face="tahoma" color="black">
 Сайн байна уу.Цогтгэрэл овогтой Соёлмаа байна.Одоо 19 настай монгол улсын их сургуульд программ хангамж мэргэжлийг сонгон суралцаж буй 2-р курсийн оюутан байна.</font>
-<p><a href=mailto:gmail.com>Soylts3</a>
+<p><a href="mailto:Soylts3@gmail.com">Soylts3</a>
             </p>
         </div>
         </p>
