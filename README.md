@@ -1,4 +1,4 @@
-# Soyollab2.github.io
+
 <!DOCTYPE html>
 <html>
 <head>
@@ -6,21 +6,17 @@
 
 </head>
 
-
-
 <body bgcolor="#EB984E">
-
     <h2 style="color: #F0B27A;">
     </h2>
     <h2 bgcolor="#F0B27A">
     </h2>
-
 </body>
 
 <h1>Hello everyone</h1>
 <p><strong>It is a pleasure to introduce myself<strong/></p>
  <ul>
-      <li><a href="#About"><button type="button"click=>About</a><a href="#lifestyle"><button type="button"click=>Life style</a><a href="#Favorites"><button type="button"click=>Favorites</a></li>
+      <li><a href="#About"><button type="button"click=>About</a><a href="#Lifestyle"><button type="button"click=>Life style</a><a href="#Favorites"><button type="button"click=>Favorites</a></li>
  </ul>  
 <p><img src="https://image.freepik.com/free-photo/student-reading-library-school_28586-1486.jpg" width="750" height="750">
 </p>
@@ -31,7 +27,7 @@
              <div class="divider"></div>
              <p class="text"><font size="5" face="tahoma" color="black">
 Сайн байна уу.Цогтгэрэл овогтой Соёлмаа байна.Одоо 19 настай монгол улсын их сургуульд программ хангамж мэргэжлийг сонгон суралцаж буй 2-р курсийн оюутан байна.</font>
-<p><a href=mailto:@gmail.com>Soylts3</a>
+<p><a href=mailto:@gmail.com>Soylts3 </a>
             </p>
         </div>
         </p>
