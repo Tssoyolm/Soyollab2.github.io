@@ -1,13 +1,14 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>Welcome to Soyolmaa house</title>
+<title>"Welcome to Soyolmaa house"</title>
 
 </head>
 
 
 <body>
-     <bgcolor="#EB984E">
+     <h2 bgcolor="#EB984E">
+     </h2>
 
     <h2 style="color: #F0B27A;">
     </h2>
@@ -53,9 +54,5 @@
 <div class="divider"></div>
 <p class="text"><font size="5" face="Tahoma" color="black">
 Бүх зүйлийг хослуулж явахыг хичээдэг.Өдөрт зайлшгүй хийдэг зүйлс гэвэл гэрийн ажил дасгал хөдөлгөөн хийх мөн хичээлээ хийх үүний хажуугаар С хэл дээр код бичих,хүүхдүүдэд математикийн давтлага зарим үед өгдөг.Эрүүл амьдралын хэв маягийг эрхэмлэдэг ч гэсэн дуртай зүйлээ хүссэн үедээ иддэг.Өөртөө үнэнч байхыг маш их эрмэлздэг.
-</p>
 
 
-
-</body>
-</html>
