@@ -2,7 +2,8 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>Welcome to Soyolmaa house</title>
+<title> Welcome to Soyolmaa house
+    </title>
 
 </head>
 
