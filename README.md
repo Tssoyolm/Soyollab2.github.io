@@ -31,10 +31,6 @@
 Сайн байна уу.Цогтгэрэл овогтой Соёлмаа байна.Одоо 19 настай монгол улсын их сургуульд программ хангамж мэргэжлийг сонгон суралцаж буй 2-р курсийн оюутан байна.</font>
 <p><a href="mailto:Soylts3@gmail.com">Soylts3</a>
             </p>
-        </div>
-        </p>
-        </div>
-    </div> 
 <p><img src="https://image.freepik.com/free-photo/black-basketball-ball-dark-background-minimalism-concept_196767-727.jpg" width="750" height="750">
 </p>
 <p><img src="https://tryengineering.org/wp-content/uploads/bigstock-208614778-1024x683.jpg" width="750" height="750">
@@ -46,12 +42,7 @@
 <div class="divider"></div>
 <p class="text"><font size="5" face="Tahoma" color="black">
 Миний хобби гэвэл сагс тоглох,шатар тоглох дуртай.Мөн бүтээлч зүйлс хийх их дуртай.
-</p>
-</div>
-</p>
-</div>
-</div>
-</div>
+
 <p><img src="https://content.thriveglobal.com/wp-content/uploads/2019/04/what-is-life.jpg?w=1550" width="750" height="750">
 </p>
 <div class= "Lifestyle" id="Lifestyle">
