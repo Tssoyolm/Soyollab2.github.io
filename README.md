@@ -1,17 +1,19 @@
-
 <!DOCTYPE html>
 <html>
 <head>
-<title> Welcome to Soyolmaa house
-    </title>
+<title>Welcome to Soyolmaa house</title>
 
 </head>
 
+
+
 <body bgcolor="#EB984E">
+
     <h2 style="color: #F0B27A;">
     </h2>
     <h2 bgcolor="#F0B27A">
     </h2>
+
 </body>
 
 <h1>Hello everyone</h1>
@@ -28,7 +30,7 @@
              <div class="divider"></div>
              <p class="text"><font size="5" face="tahoma" color="black">
 Сайн байна уу.Цогтгэрэл овогтой Соёлмаа байна.Одоо 19 настай монгол улсын их сургуульд программ хангамж мэргэжлийг сонгон суралцаж буй 2-р курсийн оюутан байна.</font>
-<p><a href=mailto:@gmail.com>Soylts3 </a>
+<p><a href=mailto:@gmail.com>Soylts3</a>
             </p>
         </div>
         </p>
@@ -51,7 +53,6 @@
 </p>
 </div>
 </div>
-</div>
 <p><img src="https://content.thriveglobal.com/wp-content/uploads/2019/04/what-is-life.jpg?w=1550" width="750" height="750">
 </p>
 <div class= "Lifestyle" id="Lifestyle">
@@ -62,11 +63,6 @@
 <p class="text"><font size="5" face="Tahoma" color="black">
 Бүх зүйлийг хослуулж явахыг хичээдэг.Өдөрт зайлшгүй хийдэг зүйлс гэвэл гэрийн ажил дасгал хөдөлгөөн хийх мөн хичээлээ хийх үүний хажуугаар С хэл дээр код бичих,хүүхдүүдэд математикийн давтлага зарим үед өгдөг.Эрүүл амьдралын хэв маягийг эрхэмлэдэг ч гэсэн дуртай зүйлээ хүссэн үедээ иддэг.Амьдралыг уулаар адилтган тасралтгүй хичээх хэрэгтэй гэж боддог учир өөртөө үнэнч байхыг маш их эрмэлздэг.
 </p>
-</div>
-</p>
-</div>
-</div>
-</div>
 
 
 
