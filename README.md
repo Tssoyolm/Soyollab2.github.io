@@ -30,11 +30,11 @@
              <p class="text"><font size="5" face="tahoma" color="black">
 Сайн байна уу.Цогтгэрэл овогтой Соёлмаа байна.Одоо 19 настай монгол улсын их сургуульд программ хангамж мэргэжлийг сонгон суралцаж буй 2-р курсийн оюутан байна.</font>
 <p><a href="mailto:Soylts3@gmail.com">Soylts3</a>
+            </p>
         </div>
         </p>
         </div>
     </div> 
-</div>
 <p><img src="https://image.freepik.com/free-photo/black-basketball-ball-dark-background-minimalism-concept_196767-727.jpg" width="750" height="750">
 </p>
 <p><img src="https://tryengineering.org/wp-content/uploads/bigstock-208614778-1024x683.jpg" width="750" height="750">
