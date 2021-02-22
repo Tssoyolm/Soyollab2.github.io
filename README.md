@@ -22,9 +22,9 @@
  </ul>  
 <p><img src="https://image.freepik.com/free-photo/student-reading-library-school_28586-1486.jpg" width="750" height="750">
 </p>
-<div class="About" id="About">
-    <div class="About-section"> 
-        <div class="inner-container">
+          <div class="About" id="About"></div>
+          <div class="About-section"> </div>
+          <div class="inner-container"> </div>
              <h1>Me</h1>
              <div class="divider"></div>
              <p class="text"><font size="5" face="tahoma" color="black">
@@ -35,9 +35,9 @@
 </p>
 <p><img src="https://tryengineering.org/wp-content/uploads/bigstock-208614778-1024x683.jpg" width="750" height="750">
 </p>
-<div class= "Favorites" id="Favorites">
-<div class="Favorites-section">
-<div class="inner-container">
+            <div class= "Favorites" id="Favorites"></div>
+    <div class="Favorites-section"></div>
+    <div class="inner-container"></div>
 <h1>Favorites</h1>
 <div class="divider"></div>
 <p class="text"><font size="5" face="Tahoma" color="black">
@@ -45,9 +45,9 @@
 
 <p><img src="https://content.thriveglobal.com/wp-content/uploads/2019/04/what-is-life.jpg?w=1550" width="750" height="750">
 </p>
-<div class= "Lifestyle" id="Lifestyle">
-<div class="Lifestyle-section">
-<div class="inner-container">
+<div class= "Lifestyle" id="Lifestyle"></div>
+<div class="Lifestyle-section"></div>
+<div class="inner-container"></div>
 <h1>Lifestyle</h1>
 <div class="divider"></div>
 <p class="text"><font size="5" face="Tahoma" color="black">
