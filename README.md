@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>"Welcome to Soyolmaa house"</title>
+<title>Welcome to Soyolmaa house</title>
 
 </head>
 
@@ -17,7 +17,7 @@
 
 
 <h1>Hello everyone</h1>
-<p><strong>It is a pleasure to introduce myself<strong/></p>
+<p><strong>It is a pleasure to introduce myself<strong/>
  <ul>
       <li><a href="#About"><button type="button" click=>About</a><a href="#Lifestyle"><button type="button" click=>Life style</a><a href="#Favorites"><button type="button" click=>Favorites</a></li>
  </ul>  
