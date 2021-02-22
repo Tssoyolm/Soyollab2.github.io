@@ -2,8 +2,8 @@
 <html>
 <head>
 <title>Welcome to Soyolmaa house</title>
-    </head>
 
+</head>
 
 
 <body bgcolor="#EB984E">
@@ -13,7 +13,6 @@
     <h2 bgcolor="#F0B27A">
     </h2>
 
-</body>
 
 <h1>Hello everyone</h1>
 <p><strong>It is a pleasure to introduce myself<strong/></p>
