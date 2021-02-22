@@ -16,7 +16,7 @@
 
 
 <h1>Hello everyone</h1>
-<p><strong>It is a pleasure to introduce myself<strong/></p>
+<p><strong>It is a pleasure to introduce myself<strong/>
  <ul>
       <li><a href="#About"><button type="button"click=>About</a><a href="#lifestyle"><button type="button"click=>Life style</a><a href="#Favorites"><button type="button"click=>Favorites</a></li>
  </ul>  
@@ -53,11 +53,7 @@
 <p class="text"><font size="5" face="Tahoma" color="black">
 Бүх зүйлийг хослуулж явахыг хичээдэг.Өдөрт зайлшгүй хийдэг зүйлс гэвэл гэрийн ажил дасгал хөдөлгөөн хийх мөн хичээлээ хийх үүний хажуугаар С хэл дээр код бичих,хүүхдүүдэд математикийн давтлага зарим үед өгдөг.Эрүүл амьдралын хэв маягийг эрхэмлэдэг ч гэсэн дуртай зүйлээ хүссэн үедээ иддэг.Өөртөө үнэнч байхыг маш их эрмэлздэг.
 </p>
-</div>
-</p>
-</div>
-</div>
-</div>
+
 
 
 
