@@ -28,13 +28,10 @@
              <h1>Me</h1>
              <div class="divider"></div>
              <p class="text"><font size="5" face="tahoma" color="black">
-Хатагтай Цогтгэрэл овогтой соёлмаа нь Монгол улсын их сургуулийн 2-р курсийн эгэл жирийн нэгэн оюутан байна.</font>
+Хатагтай Цогтгэрэл овогтой Соёлмаа нь Монгол улсын их сургуулийн 2-р курсийн эгэл жирийн нэгэн оюутан байна.</font>
 <p><a href="mailto:Soylts3@gmail.com">Soylts3</a>
             </p>
-<p><img src="https://image.freepik.com/free-photo/black-basketball-ball-dark-background-minimalism-concept_196767-727.jpg" width="750" height="750">
-</p>
-<p><img src="https://tryengineering.org/wp-content/uploads/bigstock-208614778-1024x683.jpg" width="750" height="750">
-</p>
+
             <div class= "Favorites" id="Favorites"></div>
     <div class="Favorites-section"></div>
     <div class="inner-container"></div>
@@ -42,9 +39,11 @@
 <div class="divider"></div>
 <p class="text"><font size="5" face="Tahoma" color="black">
 Ширэн бөмбөгийг залаад дугуй цагирагт орох тэр мөч гайхалтай 8*8 хэмжээтэй хавтан дээр 2 улсын дайныг эхлүүлэх бүр янзтай.
-
-<p><img src="https://content.thriveglobal.com/wp-content/uploads/2019/04/what-is-life.jpg?w=1550" width="750" height="750">
+<p><img src="https://image.freepik.com/free-photo/black-basketball-ball-dark-background-minimalism-concept_196767-727.jpg" width="750" height="750">
 </p>
+<p><img src="https://tryengineering.org/wp-content/uploads/bigstock-208614778-1024x683.jpg" width="750" height="750">
+</p>
+
 <div class= "Lifestyle" id="Lifestyle"></div>
 <div class="Lifestyle-section"></div>
 <div class="inner-container"></div>
@@ -52,7 +51,8 @@
 <div class="divider"></div>
 <p class="text"><font size="5" face="Tahoma" color="black">
 Хоёр идэхгүй хоосон хонохгүй оюутан насаа бүхэлд нь аз жаргалтай дурсамжтай байлгахыг хичээдэг.Хичээлээ хийх үүний хажуугаар С хэл дээр код бичих,хүүхдүүдэд математикийн давтлага зарим үед өгдөг.
-
+<p><img src="https://content.thriveglobal.com/wp-content/uploads/2019/04/what-is-life.jpg?w=1550" width="750" height="750">
+</p>
 
 
 
